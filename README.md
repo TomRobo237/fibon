@@ -3,7 +3,7 @@ For calculating Fibonacci numbers.
 
 Simple program written in C to calculate Fibonacci numbers
 
-Has multiple flags for formatting output:
+Has multiple flags for formatting output:  
 `-l` or `--list`: Seperate each number by a newline rather than a space.  
 `-c` or `--comma`: Use commas to separate every 3 digits.  
 `-n` or `--numbered`: Will number each entry in output.  
