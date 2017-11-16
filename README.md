@@ -11,7 +11,7 @@ Has multiple flags for formatting output:
 Can be supplied a number as an argument to calculate that amount of Fibonnachi numbers.
 Will only eat the first number and disregard any further numbers supplied.
 
-Example:
+Example:  
 `./fibon 10 -lnc`
 
 Output:  
