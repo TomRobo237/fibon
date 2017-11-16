@@ -14,7 +14,7 @@ Will only eat the first number and disregard any further numbers supplied.
 Example:
 `./fibon 10 -lnc`
 
-Output:
+Output:  
 1: 0  
 2: 1  
 3: 1  
